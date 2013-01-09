@@ -1,2 +1,5 @@
 sipinclude.conf
+*.swp
+*.org
+*.new
 
